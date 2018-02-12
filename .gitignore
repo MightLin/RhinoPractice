@@ -1,0 +1,6 @@
+RhinoTest/bin/
+RhinoTest/obj/
+RhinoTestTests/bin/
+RhinoTestTests/obj/
+TestResults/
+packages/
