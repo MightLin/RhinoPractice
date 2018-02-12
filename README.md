@@ -4,11 +4,11 @@ Rhino Practice
 
 
 
-### ÅçÃÒ¨S¦³¦^¶Ç­Èªº¨ç¦¡ªº½Õ¥Î¦¸¼Æ
+### é©—è­‰æ²’æœ‰å›å‚³å€¼çš„å‡½å¼çš„èª¿ç”¨æ¬¡æ•¸
 
-¨Ï¥Î AssertWasCalled
+ä½¿ç”¨ AssertWasCalled
 
-```c
+```csharp
 
 //Arrange
 
@@ -28,9 +28,9 @@ inject.AssertWasCalled(
 ```
 
 
-¨Ï¥Î VerifyAllExpectations
+ä½¿ç”¨ VerifyAllExpectations
 
-```c
+```csharp
 
 //Arrange
 
@@ -51,11 +51,11 @@ inject.VerifyAllExpectations();
 ---
 
 
-### ÅçÃÒ¦³¦^¶Ç­Èªº¨ç¦¡ªº½Õ¥Î¦¸¼Æ
+### é©—è­‰æœ‰å›å‚³å€¼çš„å‡½å¼çš„èª¿ç”¨æ¬¡æ•¸
 
-¨Ï¥Î VerifyAllExpectations
+ä½¿ç”¨ VerifyAllExpectations
 
-```c
+```csharp
 
 //Arrange
 
